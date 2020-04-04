@@ -1,6 +1,10 @@
 .project
 .idea
 
+#忽视文件夹
+log
+target
+
 # Compiled class file
 *.class
 
